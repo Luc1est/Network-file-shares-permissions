@@ -32,7 +32,7 @@ This tutorial outlines the Stepts to grant Access & permission in Active directo
 ![image](https://github.com/user-attachments/assets/90ac0b92-776a-4907-9852-23558552afe9)
 
 
-Open up the start menu, select windows administrative tools and then active directory.
+Open up the start menu, select windows administrative tools and then active directory users & computers.
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
