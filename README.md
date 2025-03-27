@@ -20,11 +20,11 @@ This tutorial outlines the Stepts to grant Access & permission in Active directo
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Connect/log into DC-1 as your domain admin account-
+
+- Connect/log into Client-1 as a normal user-
+
+- On DC-1, on the C:\ drive, create 4 folders: “read-access”, “write-access”, “no-access”, “accounting”
 
 <h2>Installation Steps</h2>
 
@@ -34,18 +34,15 @@ This tutorial outlines the Stepts to grant Access & permission in Active directo
 
 Open up the start menu, select windows administrative tools and then active directory users & computers.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/user-attachments/assets/46a05049-c5b9-452e-99c1-40f5f7a716bc)
+
+Select ok.
+
+
+
+![image](https://github.com/user-attachments/assets/22841afd-3678-4095-9fec-0e2978ada0be)
+
+Select any user you'd like as this is only for demonstartion purposes
+
+
