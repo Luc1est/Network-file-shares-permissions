@@ -70,18 +70,28 @@ Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Wri
 (Skip accounting for now)
 
 
-
-
-
+![image](https://github.com/user-attachments/assets/4004a2c1-b3be-4026-8893-225d0834ce4a)
 
 Select the read-access Folder >properties> sharing > share
 
 
+![image](https://github.com/user-attachments/assets/5534c5bb-2191-4f5d-8396-acaae0eee8ed)
+Type domain users then click add.
 
 
 
+![image](https://github.com/user-attachments/assets/5c6e5a52-913e-4d58-afa1-74af1b624da1)
+ Ensure domain users only have read access then click share
+
+ Reapeat the 1st 3 original steps for each subsequent folder. Only changing the permissions for each folder. 
+ 
+ Select the Folder > properties > Sharing > Share > Domain users > 
+
+![image](https://github.com/user-attachments/assets/caa10645-fbac-400d-b08c-71ca59c797fa)
+ Select read/write for the read write/folder
 
 
 
-
+![image](https://github.com/user-attachments/assets/0774b38b-4d85-428e-90d7-149d6d357a4c)
+ for the no acces folder follow the initial stepts all the way up to sharing > share. when you get to the entry bar type in Domain admins & select read/write.
 
