@@ -94,4 +94,4 @@ Type domain users then click add.
 
 ![image](https://github.com/user-attachments/assets/0774b38b-4d85-428e-90d7-149d6d357a4c)
  for the no acces folder follow the initial stepts all the way up to sharing > share. when you get to the entry bar type in Domain admins & select read/write.
-
+You have now created specific Folders that only certain Personnel can access depending on what type of user they are and their permissions. Good Job (:
