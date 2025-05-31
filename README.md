@@ -2,7 +2,7 @@
 
 
 
-This tutorial outlines the Stepts to grant Access & permission in Active directory
+This tutorial outlines the Steps to grant Access & permission in Active directory
 
 
 
